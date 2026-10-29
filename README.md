@@ -49,3 +49,7 @@ i started work on frontend Design  with spidy theme for attarctive and easy acce
 after a discussion i implement the Docker file for both side acces in windows and linux also . 
 this is a main scope i done this in my project .. 
 
+Frontend Base is my 2st version i built for ndurance Gait project. 
+beginning i was just implemented the only the python backend work it can python files,
+after i work on frontend design to frame the project 
+as a complete framework to analyse the through the frontend and work on backend base . 
